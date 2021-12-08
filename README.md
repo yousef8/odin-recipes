@@ -3,7 +3,7 @@ This is a project to practice HTML, CSS and JS.
 This project is part of [The Odin Project](https://www.theodinproject.com/) foundation course to learn web development.
 
 # Demo-Preview
-Check this [GitHub Pages]() link to preview the site
+Check this [GitHub Pages](https://yousef8.github.io/odin-recipes/) link to preview the site
 
 # Table of contents
 * [Project Title](#odin-recipes)
